@@ -293,6 +293,9 @@ async function handleContact(req, res) {
 const server = http.createServer(async (req, res) => {
   for (const [k, v] of Object.entries(SECURITY_HEADERS)) res.setHeader(k, v);
   const url = new URL(req.url, 'http://localhost');
+  if (process.env.DEBUG_REQUESTS === '1') {
+    console.log(`${req.method} raw=${JSON.stringify(req.url)} host=${req.headers.host} xfh=${req.headers['x-forwarded-host'] || ''} xfp=${req.headers['x-forwarded-prefix'] || ''}`);
+  }
   try {
     if (url.pathname === '/healthz') {
       res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' });
