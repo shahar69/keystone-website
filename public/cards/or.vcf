@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;Or;;;
+FN;CHARSET=UTF-8:Or | Keystone
+ORG:Keystone
+TITLE:Co-Founder
+TEL;TYPE=CELL,VOICE:+972532733808
+EMAIL;TYPE=INTERNET,WORK:or@keystone.org.il
+URL:https://keystone.org.il/card/or/
+PHOTO;VALUE=URI:https://keystone.org.il/assets/img/apple-touch-icon.png
+UID:https://keystone.org.il/card/or/
+REV:20261102T100000Z
+END:VCARD
