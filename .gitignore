@@ -7,3 +7,5 @@ coverage/
 data/
 *.log
 .env
+
+/package-lock.json
