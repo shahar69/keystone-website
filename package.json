@@ -1,14 +1,32 @@
 {
   "name": "keystone-website",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Keystone company website (keystone.org.il)",
   "private": true,
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node cpanel-start.cjs",
+    "build": "node -e \"console.log('Prebuilt Keystone production assets')\""
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=20.19.0"
   },
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@alexanderolsen/libsamplerate-js": "2.1.2",
+    "@elevenlabs/client": "1.33.0",
+    "bidi-js": "^1.1.0",
+    "htmlparser2": "^12.0.0",
+    "ipaddr.js": "^2.5.0",
+    "nodemailer": "^10.3.1",
+    "pdfkit": "^0.20.2",
+    "qrcode": "^1.5.4",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "axe-core": "^4.14.0",
+    "esbuild": "^0.25.12",
+    "lighthouse": "^13.5.0"
+  }
 }

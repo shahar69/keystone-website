@@ -1,0 +1,271 @@
+{
+  "version": 2,
+  "builtAt": "2026-11-05T14:17:35.202Z",
+  "assets": {
+    "final.js": "/assets/build/final-UT4NX5Z3.js",
+    "site.js": "/assets/build/site-OBQLS543.js",
+    "admin.js": "/assets/build/admin-V5LUXI3N.js",
+    "v4.js": "/assets/build/v4-V3F6UM4T.js",
+    "capability.js": "/assets/build/capability-57QNTKZA.js",
+    "capability.css": "/assets/build/capability-WIRT46GW.css",
+    "final.css": "/assets/build/final-D7CKSCXI.css",
+    "site.css": "/assets/build/site-CVF5XHF5.css",
+    "admin.css": "/assets/build/admin-U4A5I54N.css",
+    "nojs.css": "/assets/build/nojs-WQCXLYXQ.css",
+    "v4.css": "/assets/build/v4-PCZAPYXK.css"
+  },
+  "pages": [
+    {
+      "path": "/",
+      "lang": "he",
+      "route": "",
+      "title": "מחברים חזון עסקי ליכולת ביצוע.",
+      "description": "מחברים חזון עסקי ליכולת ביצוע. — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-home",
+      "index": true
+    },
+    {
+      "path": "/capabilities/",
+      "lang": "he",
+      "route": "capabilities",
+      "title": "היכולות של קיסטון",
+      "description": "היכולות של קיסטון — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-capabilities",
+      "index": true
+    },
+    {
+      "path": "/organizations/",
+      "lang": "he",
+      "route": "organizations",
+      "title": "יכולות שמתחברות לארגון",
+      "description": "יכולות שמתחברות לארגון — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-organizations",
+      "index": true
+    },
+    {
+      "path": "/standards/",
+      "lang": "he",
+      "route": "standards",
+      "title": "איכות ובקרה",
+      "description": "איכות ובקרה — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-standards",
+      "index": true
+    },
+    {
+      "path": "/card/shahar/",
+      "lang": "he",
+      "route": "card/shahar",
+      "title": "שחר",
+      "description": "שחר — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-card-shahar",
+      "index": false
+    },
+    {
+      "path": "/card/or/",
+      "lang": "he",
+      "route": "card/or",
+      "title": "אור",
+      "description": "אור — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-card-or",
+      "index": false
+    },
+    {
+      "path": "/about/",
+      "lang": "he",
+      "route": "about",
+      "title": "מי אנחנו",
+      "description": "מי אנחנו — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-about",
+      "index": true
+    },
+    {
+      "path": "/method/",
+      "lang": "he",
+      "route": "method",
+      "title": "איך עובדים",
+      "description": "איך עובדים — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-method",
+      "index": true
+    },
+    {
+      "path": "/contact/",
+      "lang": "he",
+      "route": "contact",
+      "title": "צרו קשר",
+      "description": "צרו קשר — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-contact",
+      "index": true
+    },
+    {
+      "path": "/privacy/",
+      "lang": "he",
+      "route": "privacy",
+      "title": "מדיניות פרטיות",
+      "description": "מדיניות פרטיות — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-privacy",
+      "index": true
+    },
+    {
+      "path": "/terms/",
+      "lang": "he",
+      "route": "terms",
+      "title": "תנאי שימוש",
+      "description": "תנאי שימוש — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-terms",
+      "index": true
+    },
+    {
+      "path": "/accessibility/",
+      "lang": "he",
+      "route": "accessibility",
+      "title": "הצהרת נגישות",
+      "description": "הצהרת נגישות — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-accessibility",
+      "index": true
+    },
+    {
+      "path": "/thanks/",
+      "lang": "he",
+      "route": "thanks",
+      "title": "הפנייה התקבלה",
+      "description": "הפנייה התקבלה — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-thanks",
+      "index": false
+    },
+    {
+      "path": "/work/",
+      "lang": "he",
+      "route": "work",
+      "title": "עבודות בתהליך",
+      "description": "עבודות בתהליך — קיסטון מתכננת, בונה ומפעילה יכולות עסקיות וטכנולוגיות סביב מטרות הארגון.",
+      "ogName": "he-work",
+      "index": false
+    },
+    {
+      "path": "/en/",
+      "lang": "en",
+      "route": "",
+      "title": "Connecting business ambition to execution.",
+      "description": "Connecting business ambition to execution. — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-home",
+      "index": true
+    },
+    {
+      "path": "/en/capabilities/",
+      "lang": "en",
+      "route": "capabilities",
+      "title": "Keystone capabilities",
+      "description": "Keystone capabilities — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-capabilities",
+      "index": true
+    },
+    {
+      "path": "/en/organizations/",
+      "lang": "en",
+      "route": "organizations",
+      "title": "Capabilities connected to your organization",
+      "description": "Capabilities connected to your organization — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-organizations",
+      "index": true
+    },
+    {
+      "path": "/en/standards/",
+      "lang": "en",
+      "route": "standards",
+      "title": "Quality & control",
+      "description": "Quality & control — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-standards",
+      "index": true
+    },
+    {
+      "path": "/en/card/shahar/",
+      "lang": "en",
+      "route": "card/shahar",
+      "title": "Shahar",
+      "description": "Shahar — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-card-shahar",
+      "index": false
+    },
+    {
+      "path": "/en/card/or/",
+      "lang": "en",
+      "route": "card/or",
+      "title": "Or",
+      "description": "Or — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-card-or",
+      "index": false
+    },
+    {
+      "path": "/en/about/",
+      "lang": "en",
+      "route": "about",
+      "title": "About Keystone",
+      "description": "About Keystone — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-about",
+      "index": true
+    },
+    {
+      "path": "/en/method/",
+      "lang": "en",
+      "route": "method",
+      "title": "Our method",
+      "description": "Our method — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-method",
+      "index": true
+    },
+    {
+      "path": "/en/contact/",
+      "lang": "en",
+      "route": "contact",
+      "title": "Contact",
+      "description": "Contact — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-contact",
+      "index": true
+    },
+    {
+      "path": "/en/privacy/",
+      "lang": "en",
+      "route": "privacy",
+      "title": "Privacy policy",
+      "description": "Privacy policy — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-privacy",
+      "index": true
+    },
+    {
+      "path": "/en/terms/",
+      "lang": "en",
+      "route": "terms",
+      "title": "Terms of use",
+      "description": "Terms of use — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-terms",
+      "index": true
+    },
+    {
+      "path": "/en/accessibility/",
+      "lang": "en",
+      "route": "accessibility",
+      "title": "Accessibility statement",
+      "description": "Accessibility statement — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-accessibility",
+      "index": true
+    },
+    {
+      "path": "/en/thanks/",
+      "lang": "en",
+      "route": "thanks",
+      "title": "Enquiry received",
+      "description": "Enquiry received — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-thanks",
+      "index": false
+    },
+    {
+      "path": "/en/work/",
+      "lang": "en",
+      "route": "work",
+      "title": "Work in progress",
+      "description": "Work in progress — Keystone designs, builds and operates business and technology capabilities around your organization’s goals.",
+      "ogName": "en-work",
+      "index": false
+    }
+  ]
+}
